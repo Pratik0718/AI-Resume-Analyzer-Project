@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🚀 AI Resume Analyzer (NLP-Based ATS System)
 
 An end-to-end NLP-based system that analyzes resumes against job descriptions and provides a match score, extracted skills, and missing skills — simulating a real Applicant Tracking System (ATS).
@@ -118,4 +118,4 @@ git remote add origin <your-repo-link>
 git push -u origin main
 =======
 # AI-Resume-Analyzer-Project
->>>>>>> eaf5c862d0ac5bab8b455e8fb23e8410e60f1715
+
